@@ -1,2 +1,14 @@
 # hth-app-resource
-HTML page archive and documentation
+
+公开页面文件归档
+
+页面发布任务会把结果保存到此仓库，方便统一管理。
+
+## 页面文件
+
+- 每个 HTML 文件可独立访问
+- 文件名称由发布任务生成
+
+## 备注
+
+仓库内容用于静态页面归档，具体页面请以 HTML 文件为准。
